@@ -153,6 +153,7 @@ header{
 footer{
     background: url("../images/Vector9.png") center/100% 100% no-repeat;
     padding-top: 40px;
+    min-width: 1200px;
 }
 .foot_box {
     display: flex;
@@ -226,7 +227,7 @@ img.partition {
     display: block;
     margin: 40px auto;
     width: 100%;
-    min-width: 100%;
+    min-width: 1200px;
 }
 
 .choose_us {
