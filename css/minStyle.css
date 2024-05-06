@@ -1,0 +1,19 @@
+/*
+.pw {
+    width: 100%;
+}
+.nav_list {
+    gap: 10px;
+}
+.nav_list li a {
+    font-size: 10px;
+}
+.nav_list li a img {
+    width: 15px;
+}*/
+html, body {
+    -webkit-text-size-adjust: 100%;
+}
+.pw {
+    width: 90%;
+}
