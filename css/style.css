@@ -16,6 +16,7 @@ a{text-decoration: none; color: black;}
     display: none;
 }
 header{
+    min-width: 1200px;
     background: url("../images/Vector11.png") center/100% 100% no-repeat;
     padding-bottom: 40px;
 }
@@ -225,6 +226,7 @@ img.partition {
     display: block;
     margin: 40px auto;
     width: 100%;
+    min-width: 100%;
 }
 
 .choose_us {
